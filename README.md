@@ -1,4 +1,7 @@
-[TEXTO AQUI]
+
+# Welcome to my profile!
+📌 Currently I'm studying the basic of programing, let me show you my projects 
+
 ##
 
 <div align="center">
@@ -22,4 +25,5 @@
 </div>
 
    ![Snake animation](https://github.com/pamlotusia/pamlotusia/blob/output/github-contribution-grid-snake.svg)
+   .
 
