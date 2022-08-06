@@ -24,6 +24,6 @@
  <a href="https://api.whatsapp.com/send?phone=5511984097584&text=Ol%C3%A1%2C%20visitei%20seu%20perfil%20no%20github%2C%20podemos%20conversar%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
 
-   ![Snake animation](https://github.com/pamlotusia/pamlotusia/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/pamlotusia/pamlotusia/blob/output/github-repositories-grid-snake.svg)
    .
 
