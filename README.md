@@ -1,6 +1,6 @@
 
 # Welcome to my profile!
-📌 Currently I'm studying the basics of programming, let me show you my projects
+📌 I'm full stack developer, let me show you my projects
 
 ##
 
